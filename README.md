@@ -1,7 +1,7 @@
 # PCB-Keychain-design
 
 ## Description
-This project is my own hand drawn art made on Procreate. I decided to draw a husky since I love drawing animals especially dogs. The embossed part is the eyes and the gold layer is the little paw.
+This project is my own hand drawn art made on Procreate. I decided to draw a husky since I love drawing animals especially dogs. The embossed part is the eyes and the gold layer is the little paw. It is a PCB keychain using EasyEDA's multicolor layer feature with my own art on it.
 
 ## Why I started this project
 I was inspired by the stickers I got in general and I saw how great they were drawn to the composition. I first referenced a sticker I got from the local university and then decided to copy it on my first try. Although I forget to record so I had to restart in order for my hours to count! It's okay it was a learning experience anyways.
