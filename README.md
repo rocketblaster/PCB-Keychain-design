@@ -9,13 +9,13 @@ I was inspired by the stickers I got in general and I saw how great they were dr
 The hardest part was the alignment. I set my canvas size to A4 so I guess that made it harder. It doesn't have to be perfect so I left my project that way with a little but of white lines. So no worries and it basically looks like highlights anyways.
 
 ## Demo
-Link to Demo: [Demo](https://pro.easyeda.com/editor#id=d63a31b47be740fd97740a7a62f5ce04,tab=*40a65902f232478abc52a5ea222fa3cd@d63a31b47be740fd97740a7a62f5ce04)
+[Link to Demo](https://pro.easyeda.com/editor#id=d63a31b47be740fd97740a7a62f5ce04,tab=*40a65902f232478abc52a5ea222fa3cd@d63a31b47be740fd97740a7a62f5ce04)
 
 ## Artwork
 ![Artwork](attachments/Art.png)
 
 ## PCB Render Image
-![PCB Render Image](attachments/PCB Render.png)
+![PCB Render Image](attachments/PCB%20Render.png)
 
 ## PCB Editor Preview
 ![PCB Editor](attachments/image1.png)
